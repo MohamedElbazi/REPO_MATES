@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MatesConsola4/MatesConsola4.csproj" Id="ba7bd1de-40bd-4c50-8d99-0a233de3cd77" />
+  <Project Path="MatesLib1/MatesLib1.csproj" />
+</Solution>
